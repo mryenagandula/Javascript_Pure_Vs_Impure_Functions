@@ -1,4 +1,4 @@
-# Javascript Pure Vs Impure Functions | Koseksi 
+# Javascript Pure Vs Impure Functions |  Mr Yenagandula
 
 ## Pure Functions
 - Pure Functions are not dependent on other services or libraries
